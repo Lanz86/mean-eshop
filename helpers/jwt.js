@@ -18,7 +18,6 @@ function authJwt() {
 }
 
 async function isRevoked(req, token) {
-  console.log(token);
   return !token.payload.isAdmin;
 }
 
