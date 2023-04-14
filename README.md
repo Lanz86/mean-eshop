@@ -1,2 +1,2 @@
 # mean-eshop
-A Mongo Express Angular Node e-Shop project
+A Mongo Express Node e-Shop project server
